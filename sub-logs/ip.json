@@ -1,1 +1,15 @@
+{
+  "owner": {
+    "username": "741asdf",
+    "email": "3@3334.eu.org"
+  },
 
+  "target": {
+    "CNAME": {
+       "name": "ip", 
+       "value": "741asdf.github.io"
+     }
+  },
+
+  "proxied": false
+}
